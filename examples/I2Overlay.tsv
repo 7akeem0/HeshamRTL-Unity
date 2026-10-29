@@ -1,0 +1,5 @@
+#language=en
+# I2 term<TAB>text   (escapes: \n \r \t \\)
+Menu/Start	ابدأ
+Menu/Quit	خروج
+Dialog/Intro_01	السطر الأول\nوالسطر الثاني

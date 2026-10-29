@@ -1,0 +1,3 @@
+# sprite name (a trailing * matches every name that starts with it)<TAB>PNG file, relative to the game's HeshamRTL folder
+GameTitle_AnimatedLogo*	Sprites\logo_ar_animated.png
+GameTitleLogo	Sprites\logo_ar.png
